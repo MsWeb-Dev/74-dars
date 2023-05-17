@@ -158,3 +158,50 @@
 // num.a = 5
 // console.log(num)
 // console.log(newNum)
+
+// const string = "Javohir Nuritdinov"
+// const string = "Shaxnoza Irgasheva"
+// for(char of string){
+//     console.log(char)
+// }
+
+// import export methods
+// import {arr} from "./script.js"
+// for(let item of arr){
+//     console.log(item)
+// }
+
+// import {name} from "./script.js"
+// for(let n of name){
+//     console.log(n)
+// }
+
+// import {num} from "./script.js"
+// const newNum = [...num]
+
+// for(let n of newNum){
+//     console.log(n)
+// }
+// function
+
+
+// import {number} from "./script.js"
+// let num1 = prompt("a sonini kiriting")*1
+// let num2 = prompt("b sonini kiririting")*1
+// console.log(number(num1,num2))
+// kopaytirish
+// import {number} from "./script.js"
+// let num = prompt("a sonini kiriting")*1
+// let num1 = prompt("b sonini kiririting")*1
+// console.log(number(num,num1))
+// bolish
+// alert ("1sonni katta ikkinchi sonni kichik kiriting")
+// import {number} from "./script.js"
+// let num = prompt("a sonini kiriting")*1
+// let num1 = prompt("b sonini kiririting")*1
+// console.log(number(num,num1))
+
+// import {number} from "./script.js"
+// let num = prompt("a sonini kiriting")*1
+// let num1 = prompt("b sonini kiririting")*1
+// console.log(number(num,num1))
