@@ -1,1 +1,1 @@
-export const  add = (num1, num1)=>num1+num2
+// export const  add = (num1, num1)=>num1+num2
