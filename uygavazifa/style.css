@@ -1,6 +1,7 @@
-ul{
-    margin-left: 440px;
-    margin-top: 200px;
+.box{
+    width: 420px;
+    height: 400px;
+margin:200px auto;
 }
 input{
     border-radius: 12px;
@@ -9,47 +10,29 @@ input{
     border: 2px solid rgb(94, 125, 247);
 }
 .btn{
-    margin-top: 100px;
-    width: 80px;
+    margin-top: 67px;
+    width: 82px;
     height: 80px;
+    margin-left: -115px;
+    position: absolute;
     border-radius: 20px;
     border: 2px solid rgb(74, 126, 237);
-    margin-left: -240px;
-    position: absolute;
-
     }
-
     td{
         width: 120px;
         height: 20px;
-        border: 1px solid black;
+       border:2px solid black!important;
+    }
+    tr{
+        border:2px solid black;
     }
 
-    th{
-        width: 120px;
-        height: 20px;
-        border: 1px solid black;
-    }
+  
     .doska{
         position:absolute;
     }
     table{
-        margin-top: -100px;
-        border-radius: 12px;
+        margin-top: 50px;
         color:blue;
-        
     }
-    .remove{
-        position:absolute;
-        margin-left:-580px;
-        border-radius: 12px;
-        background-color: none;
-        border:2px solid rgb(104, 136, 223);
-    }
-    .ls{
-        border-radius: 12px;
-        position: absolute;
-        margin-left: 100px;
-        border: 2px solid rgb(104, 136, 223);;
-    }
-  
+ 
