@@ -39,15 +39,7 @@ $(".btn").click(function() {
     $(".doska").append(' <tr><td>' + get +'</td>' +'<td>' + set + '</td></tr>');
 });
 
-$('.remove').click(function(){
-   $("td").remove(); 
 
-})
-
-$('.ls').click(function(){
-    localStorage.clear()
- 
- })
  
 
  })
